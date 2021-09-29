@@ -1,7 +1,7 @@
 # PacMen-Exercise
 PacMen Exercise: Moving Pacmen in the screen
 
-**Project Title: **Pacmen Move
+**Project Title:** Pacmen Move
 
 <br>
 <img src="pacman.png" width='300'/>
