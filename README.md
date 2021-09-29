@@ -1,9 +1,12 @@
 # PacMen-Exercise
 PacMen Exercise: Moving Pacmen in the screen
-<br>
-<img src="pacman.jpg width='200'>
 
 **Project Title: **Pacmen Move
+<br>
+<img src="pacman.png" width='300'/>
+<br>
+<a href="https://keoyoulong.github.io/">Link To Home Page</a>
+<br>
 
 When clicking the AddPacman Button , the pacman created. You can create many pacman you want. Later, click Startgame. The created Pacman will move all over the screen.
 
